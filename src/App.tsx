@@ -226,7 +226,7 @@ function App() {
               <span>Enviando...</span>
             </div>
           ) : (
-            "Simular meu Crédito"
+            "Enviar"
           )}
         </button>
               </div>
